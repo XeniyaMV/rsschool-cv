@@ -9,9 +9,9 @@
 * **Bachelor's Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
 ## Courses
 * [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
-![Coursera course](images/Coursera_JS_1.pdf)
+![Coursera course](/images/Coursera_JS_1.pdf)
 * [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-![Coursera course](images/Coursera_HTML_CSS_JS.pdf)
+![Coursera course](/images/Coursera_HTML_CSS_JS.pdf)
 ## Skills
 * C/C++
 *The main programming languages at the university. Basic knowlage.*
