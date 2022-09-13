@@ -1,6 +1,6 @@
 # Xeniya Gazizova
 ## Contacts
-* *Location:* Merced, California, 95348, USA
+* *Location:* Merced, California, USA
 * *Phone:* +1(209)5048901
 * *Telegram:* @xeniya_mv
 * *E-mail:* xeniya.gazizova@gmail.com
@@ -9,6 +9,13 @@
 * **Bachelor Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
 ## Courses
 ## Skills
+* C/C++
+* Python
+* JavaScript
+* CSS3
+* HTML5
+* Git/GitHub
+* Teradata SQL
 ## Work experience
 ## Code example
 * *Kata:* Roman Numerals Decoder
@@ -67,3 +74,5 @@ function solution (roman) {
 
 ## Projects
 ## Languages
+* Russian - Native
+* English - Intermediate/Upper-intermediate. English level was checked by [https://www.efset.org/quick-check/][EFSET]
