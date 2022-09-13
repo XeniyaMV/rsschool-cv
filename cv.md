@@ -9,22 +9,27 @@
 * **Bachelor's Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
 ## Courses
 * [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
-![Coursera course](/images/Coursera_JS_1.pdf)
+
+![Coursera course](/images/coursera_js_1)
+
 * [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
 ![Coursera course](/images/Coursera_HTML_CSS_JS.pdf)
+
 ## Skills
-* C/C++
+* **C/C++**
 *The main programming languages at the university. Basic knowlage.*
-* Python(Libraries: NumPy, SciPy, Pandas)
+* **Python(Libraries: NumPy, SciPy, Pandas)**
 *Used for final project at the university and some common tasks at work*
-* JavaScript
+* **JavaScript**
 *Basic knowlege*
-* CSS3
+* **CSS3**
 *Basic knowlege*
-* HTML5
+* **HTML5**
 *Basic knowlege*
-* Git/GitHub
-* Teradata SQL
+* **Git/GitHub**
+* **Teradata SQL**
+
 ## Work experience
 ## Code example
 * *Kata:* Roman Numerals Decoder
