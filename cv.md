@@ -10,7 +10,7 @@
 ## Courses
 * [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
 
-![Coursera course](/images/coursera_js_1)
+![Coursera course](/images/coursera_js_1.png)
 
 * [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
