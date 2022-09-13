@@ -14,7 +14,7 @@
 
 * [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-![Coursera course](/images/Coursera_HTML_CSS_JS.pdf)
+![Coursera course](/images/coursera_html_css_js.png)
 
 ## Skills
 * **C/C++**
