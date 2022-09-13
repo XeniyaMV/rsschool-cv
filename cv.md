@@ -6,14 +6,23 @@
 * *E-mail:* xeniya.gazizova@gmail.com
 ## About me
 ## Education
-* **Bachelor Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
+* **Bachelor's Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
 ## Courses
+* [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
+![Coursera course](images/Coursera_JS_1.pdf)
+* [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+![Coursera course](images/Coursera_HTML_CSS_JS.pdf)
 ## Skills
 * C/C++
-* Python
+*The main programming languages at the university. Basic knowlage.*
+* Python(Libraries: NumPy, SciPy, Pandas)
+*Used for final project at the university and some common tasks at work*
 * JavaScript
+*Basic knowlege*
 * CSS3
+*Basic knowlege*
 * HTML5
+*Basic knowlege*
 * Git/GitHub
 * Teradata SQL
 ## Work experience
@@ -27,17 +36,17 @@ solution('XXI'); // should return 21
 ```
 * *Solution:*
 ```
-var romanNumbersValues = {
-    'I': 1,
-    'V': 5,
-    'X': 10,
-    'L': 50,
-    'C': 100,
-    'D': 500,
-    'M': 1000
-};
-
 function solution (roman) {
+    var romanNumbersValues = {
+        'I': 1,
+        'V': 5,
+        'X': 10,
+        'L': 50,
+        'C': 100,
+        'D': 500,
+        'M': 1000
+    };
+
     // complete the solution by transforming the
     // string roman numeral into an integer
     var givenRomanNumber = roman.split('');
@@ -73,6 +82,7 @@ function solution (roman) {
 ```
 
 ## Projects
+
 ## Languages
 * Russian - Native
-* English - Intermediate/Upper-intermediate. English level was checked by [https://www.efset.org/quick-check/][EFSET]
+* English - Intermediate/Upper-intermediate. English level was checked by [EFSET](https://www.efset.org/quick-check/)
