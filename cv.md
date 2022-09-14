@@ -41,8 +41,8 @@
 
 ## Work experience
 * Place of work: [Sber](www.sberbank.ru)
-    - **12.11.2020 - 01.02.2021** - Intern
-    - **02.02.2021 - 22.10.2021** - Data analyst
+    - *12.11.2020 - 01.02.2021* - Intern
+    - *02.02.2021 - 22.10.2021* - Data analyst
 * Experience:
     - Developed an algorithm for aggregating geolocation data from the bank's mobile application using PySpark. It increased the quality of AI model - R2 by 12%.
     - Prepared data for 7 different AI bank models. The effect of these AI models reaches $50 million.
@@ -110,5 +110,10 @@ function solution (roman) {
 
 ## Languages
 * Russian - Native
-* English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/quick-check/)
+* English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/ef-set-50/)
 ![English level](/images/EF%20SET%20Certificate.pdf)
+<object data="/images/EF%20SET%20Certificate.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/images/EF%20SET%20Certificate.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.africau.edu/images/default/sample.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
