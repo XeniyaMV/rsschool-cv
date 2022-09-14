@@ -111,4 +111,4 @@ function solution (roman) {
 ## Languages
 * Russian - Native
 * English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/quick-check/)
-![English level](rsschool-cv/images/EF%20SET%20Certificate.pdf)
+![English level](/images/EF%20SET%20Certificate.pdf)
