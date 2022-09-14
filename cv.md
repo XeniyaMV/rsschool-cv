@@ -10,11 +10,11 @@
 ## Courses
 * [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
 
-![Coursera course](/images/coursera_js_1.png)
+![Coursera course 1](/images/coursera_js_1.png)
 
 * [HTML, CSS, and Javascript for Web Developers.](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-![Coursera course](/images/coursera_html_css_js.png)
+![Coursera course 2](/images/coursera_html_css_js.png)
 
 ## Skills
 * **C/C++**
@@ -29,8 +29,10 @@
 *Basic knowlege*
 * **Git/GitHub**
 * **Teradata SQL**
+* **Hue (Hadoop User Experience)**
 
 ## Work experience
+
 ## Code example
 * *Kata:* Roman Numerals Decoder
 * *Description:* Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
@@ -87,6 +89,7 @@ function solution (roman) {
 ```
 
 ## Projects
+[coursera_html_css_js](https://github.com/XeniyaMV/coursera_html_css_js) is my GitHub repository with solutions for  [HTML, CSS, and Javascript for Web Developers course from Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 
 ## Languages
 * Russian - Native
