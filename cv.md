@@ -4,9 +4,12 @@
 * *Phone:* +1(209)5048901
 * *Telegram:* @xeniya_mv
 * *E-mail:* xeniya.gazizova@gmail.com
+
 ## About me
+
 ## Education
 * **Bachelor's Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
+
 ## Courses
 * [JavaScript, part 1.](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
 
@@ -18,20 +21,34 @@
 
 ## Skills
 * **C/C++**
-*The main programming languages at the university. Basic knowlage.*
+
+*The main programming languages at the university. Basic knowledge.*
 * **Python(Libraries: NumPy, SciPy, Pandas)**
+
 *Used for final project at the university and some common tasks at work*
 * **JavaScript**
-*Basic knowlege*
+
+*Basic knowledge*
 * **CSS3**
-*Basic knowlege*
+
+*Basic knowledge*
 * **HTML5**
-*Basic knowlege*
+
+*Basic knowledge*
 * **Git/GitHub**
 * **Teradata SQL**
 * **Hue (Hadoop User Experience)**
 
 ## Work experience
+* Place of work: [Sber](www.sberbank.ru)
+    - **12.11.2020 - 01.02.2021** - Intern
+    - **02.02.2021 - 22.10.2021** - Data analyst
+* Experience:
+    - Developed an algorithm for aggregating geolocation data from the bank's mobile application using PySpark. It increased the quality of AI model - R2 by 12%.
+    - Prepared data for 7 different AI bank models. The effect of these AI models reaches $50 million.
+    - Scored over 90 million customers by PySpark for the likelihood of opening a small business bank account.
+    - Prepared data for automatic validation of 11 ML models.
+
 
 ## Code example
 * *Kata:* Roman Numerals Decoder
@@ -93,4 +110,5 @@ function solution (roman) {
 
 ## Languages
 * Russian - Native
-* English - Intermediate/Upper-intermediate. English level was checked by [EFSET](https://www.efset.org/quick-check/)
+* English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/quick-check/)
+![English level](rsschool-cv/images/EF%20SET%20Certificate.pdf)
