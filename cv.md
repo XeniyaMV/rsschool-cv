@@ -63,7 +63,6 @@ The last project that I worked on with my team was a demo of an app for providin
 
 ```
     solution('XXI'); // should return 21
-
 ```
 * *Solution:*
 
@@ -110,7 +109,6 @@ The last project that I worked on with my team was a demo of an app for providin
         return res;
 
     };
-
 ```
 
 ## Projects
