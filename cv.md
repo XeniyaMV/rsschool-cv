@@ -110,10 +110,5 @@ function solution (roman) {
 
 ## Languages
 * Russian - Native
-* English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/ef-set-50/)
-![English level](/images/EF%20SET%20Certificate.pdf)
-<object data="/images/EF%20SET%20Certificate.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/images/EF%20SET%20Certificate.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.africau.edu/images/default/sample.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+* English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/ef-set-50/).
+See [English level certificate](/images/EF%20SET%20Certificate.pdf).
