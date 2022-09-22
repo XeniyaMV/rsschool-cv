@@ -8,7 +8,7 @@
 ## About me
 
 I graduated university in 2019. After that I started thinking about which job I will need to choose? I am always interested in web development, because nowadays the Web is a big part of our lives and I’d like to be a part of it. So I decided to continue my education at my university and switch my faculty to another that, as I thought, related to my interests, however it didn’t. While I studied I found my first job as an intern of data engineering at the most popular bank in Russia. Then I was hired as a data analyst at the same company.
- 
+
 That job wasn’t related to web development, however I learned a lot of things. I understood how to work at a big company. I understood my strengths, specifically being hardworking, capable of adapting to the new technologies, being an organized, punctual person. And I realized what I should work on. 
 
 The last project that I worked on with my team was a demo of an app for providing to customers information about which restaurants in a nearby location should they visit according to their preferences. I didn’t only collect data for the model used in this app, but made a simple page for demonstrating functionality of this app to the CDS of my department. After that I realized I want to develop in this direction. 
@@ -60,54 +60,56 @@ The last project that I worked on with my team was a demo of an app for providin
 * *Kata:* Roman Numerals Decoder
 * *Description:* Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
 * *Example:*
+
 ```
-solution('XXI'); // should return 21
+    solution('XXI'); // should return 21
 
 ```
 * *Solution:*
+
 ```
-function solution (roman) {
-    var romanNumbersValues = {
-        'I': 1,
-        'V': 5,
-        'X': 10,
-        'L': 50,
-        'C': 100,
-        'D': 500,
-        'M': 1000
-    };
+    function solution (roman) {
+        var romanNumbersValues = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        };
 
-    // complete the solution by transforming the
-    // string roman numeral into an integer
-    var givenRomanNumber = roman.split('');
-    var intNumbers = [];
-    var res = 0;
-  
-    for (var i = 0; i < givenRomanNumber.length; i++) {
-        intNumbers.push(romanNumbersValues[givenRomanNumber[i]]);
-    };
-  
-    if (intNumbers.length == 1) {
-        return intNumbers[0];
-    }
-
-    for (var i = intNumbers.length - 1; i >= 0; i--) {
-        if (i == 0 && intNumbers[i] >= intNumbers[i+1]) {
-            res += intNumbers[i];
+        // complete the solution by transforming the
+        // string roman numeral into an integer
+        var givenRomanNumber = roman.split('');
+        var intNumbers = [];
+        var res = 0;
+    
+        for (var i = 0; i < givenRomanNumber.length; i++) {
+            intNumbers.push(romanNumbersValues[givenRomanNumber[i]]);
+        };
+    
+        if (intNumbers.length == 1) {
+            return intNumbers[0];
         }
-        else if (i != 0) {
-            if (intNumbers[i] > intNumbers[i-1]) {
-                res += intNumbers[i] - intNumbers[i-1]
-                i--;
-            }
-            else {
+
+        for (var i = intNumbers.length - 1; i >= 0; i--) {
+            if (i == 0 && intNumbers[i] >= intNumbers[i+1]) {
                 res += intNumbers[i];
             }
+            else if (i != 0) {
+                if (intNumbers[i] > intNumbers[i-1]) {
+                    res += intNumbers[i] - intNumbers[i-1]
+                    i--;
+                }
+                else {
+                    res += intNumbers[i];
+                }
+            }
         }
-    }
-    return res;
+        return res;
 
-};
+    };
 
 ```
 
