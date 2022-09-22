@@ -7,6 +7,11 @@
 
 ## About me
 
+I graduated university in 2019. After that I started thinking about which job I will need to choose?  
+I am always interested in web development, because nowadays the Web is a big part of our lives and I’d like to be a part of it. So I decided to continue my education at my university and switch my faculty to another that, as I thought, related to my interests, however it didn’t. While I studied I found my first job as an intern of data engineering at the most popular bank in Russia. Then I was hired as a data analyst at the same company. 
+That job wasn’t related to web development, however I learned a lot of things. I understood how to work at a big company. I understood my strengths, specifically being hardworking, capable of adapting to the new technologies, being an organized, punctual person. And I realized what I should work on. 
+The last project that I worked on with my team was a demo of an app for providing to customers information about which restaurants in a nearby location should they visit according to their preferences. I didn’t only collect data for the model used in this app, but made a simple page for demonstrating functionality of this app to the CDS of my department. After that I realized I want to develop in this direction. 
+
 ## Education
 * **Bachelor's Degree.** Lomonosov Moscow State University. Field of study - Mathematics. Period of education - 2015-2019.
 
