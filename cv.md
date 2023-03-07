@@ -112,10 +112,12 @@ The last project that I worked on with my team was a demo of an app for providin
 ```
 
 ## Projects
-[coursera_html_css_js](https://github.com/XeniyaMV/coursera_html_css_js) is my GitHub repository with solutions for  [HTML, CSS, and Javascript for Web Developers course from Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+* [coursera_html_css_js](https://github.com/XeniyaMV/coursera_html_css_js) is my GitHub repository with solutions for  [HTML, CSS, and Javascript for Web Developers course from Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+
+* [js_practice](https://github.com/XeniyaMV/js_practice) is my little tasks for practicing HTML/CSS/JS
 
 ## Languages
 * Russian - Native
 * English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/ef-set-50/).
 See [English level certificate](https://github.com/XeniyaMV/rsschool-cv/blob/gh-pages/images/EF_SET_Certificate.pdf).
-![English level certificate](https://github.com/XeniyaMV/rsschool-cv/blob/gh-pages/images/EF_SET_Certificate.pdf)
+
