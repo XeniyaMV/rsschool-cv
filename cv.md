@@ -118,4 +118,4 @@ The last project that I worked on with my team was a demo of an app for providin
 * Russian - Native
 * English - Upper-intermediate/Advanced. English level was checked by [EFSET](https://www.efset.org/ef-set-50/).
 See [English level certificate](https://github.com/XeniyaMV/rsschool-cv/blob/gh-pages/images/EF_SET_Certificate.pdf).
-<embed src="/images/EF_SET_Certificate.pdf" type="application/pdf">
+<embed src="https://github.com/XeniyaMV/rsschool-cv/blob/gh-pages/images/EF_SET_Certificate.pdf" type="application/pdf">
